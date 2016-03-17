@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63279" started-at="2016-03-17T10:47:33Z" finished-at="2016-03-17T10:48:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63279" started-at="2016-03-17T10:47:33Z" finished-at="2016-03-17T10:48:36Z">
+      <class name="com.inforcepro.app.logincheck">
+        <test-method status="PASS" signature="checkingtestserverworking()[pri:0, instance:com.inforcepro.app.logincheck@3796751b]" name="checkingtestserverworking" duration-ms="51019" started-at="2016-03-17T16:17:33Z" finished-at="2016-03-17T16:18:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingtestserverworking -->
+        <test-method status="PASS" signature="Checkingloginworking()[pri:0, instance:com.inforcepro.app.logincheck@3796751b]" name="Checkingloginworking" duration-ms="12169" started-at="2016-03-17T16:18:24Z" finished-at="2016-03-17T16:18:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkingloginworking -->
+      </class> <!-- com.inforcepro.app.logincheck -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
